@@ -63,7 +63,7 @@ except Exception as e:
 ---
 ## Vídeo demonstrativo do workflow:
 
-### https://github.com/user-attachments/assets/aeb817e0-5b5e-4d16-9fe2-b648979bd17c
+<video src="https://github.com/user-attachments/assets/aeb817e0-5b5e-4d16-9fe2-b648979bd17c" controls width="100%"></video>
 ---
 
 ## Mensagens geradas dinamicamente via LLM:
